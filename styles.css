@@ -1,0 +1,9 @@
+body{
+    color:red;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.image-container{
+    max-width: 600px;
+}
